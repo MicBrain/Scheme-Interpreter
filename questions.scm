@@ -126,10 +126,3 @@
 (tree-sums tree)
 ; expect (20 19 13 16 11)
 
-
-; ; Problem 21 (optional)
-
-; ; Draw the hax image using turtle graphics.
-; (define (hax d k)
-;   ; *** YOUR CODE HERE ***
-;   nil)
