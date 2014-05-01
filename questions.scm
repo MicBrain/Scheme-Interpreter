@@ -59,7 +59,6 @@
 (merge greater-list '((3 2 1) (1 1) (0)) '((4 0) (3 2 0) (3 2) (1)))
 ; expect ((4 0) (3 2 1) (3 2 0) (3 2) (1 1) (1) (0))
 
-;Problem 19
 
 ; A list of all ways to partition TOTAL, where  each partition must
 ; be at most MAX-VALUE and there are at most MAX-PIECES partitions.
