@@ -19,7 +19,6 @@
       (op (car sequence)
           (accumulate op initial (cdr sequence)))))
 
-; Problem 18
 
 ;; Merge two lists LIST1 and LIST2 according to COMP and return
 ;; the merged lists.
