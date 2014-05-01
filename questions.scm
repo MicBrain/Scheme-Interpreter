@@ -1,4 +1,4 @@
-; Some utility functions that you may find useful.
+; Questions written in Scheme to check if the Interpreter is working correctly
 (define (map proc items)
   
   (if (null? items)
